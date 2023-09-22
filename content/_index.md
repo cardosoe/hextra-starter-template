@@ -1,17 +1,20 @@
 ---
-title: My Site
-toc: false
+#title: Una colección de notas y apuntes casi de cualquier cosa
+toc: true
 ---
 
-This is the landing page.
 
-## Explore
+</br>
+</br>
+</br>
+</br>
+</br>
+
 
 {{< cards >}}
-  {{< card link="docs" title="Docs" icon="book-open" >}}
+  {{< card link="notas" title="Notas" icon="book-open" >}}
+  {{< card link="apuntes" title="Apuntes" icon="book-open" >}}
   {{< card link="about" title="About" icon="user" >}}
 {{< /cards >}}
 
-## Documentation
 
-For more information, visit [Hextra](https://imfing.github.io/hextra).
