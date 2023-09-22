@@ -45,6 +45,8 @@ menu:
       params:
         icon: x-twitter
 
+googleAnalytics: UA-286335141-1
+
 params:
   navbar:
     displayTitle: true
